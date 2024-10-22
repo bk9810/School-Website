@@ -1,0 +1,41 @@
+.too{
+    padding: 130px 70px;
+    display: flex;
+}
+
+.too h4{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: #172c66;
+    padding: 0 20px;
+}
+
+
+.tyu{
+    
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    border: 10px solid transparent;
+    background-color: transparent;
+    border-radius: 10%;
+    width: 1518px;
+    height: 850px;
+    float: inline-end;
+    font-size: 40px;
+
+}
+
+.yui{
+    
+    padding: 2rem;
+    background-color: #001858;
+    border-radius: 40px;
+    line-height: 1.4rem;
+    margin-top: 40px;
+    font-size: 24px;
+    color: #f3d2c1;
+}

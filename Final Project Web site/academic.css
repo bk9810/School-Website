@@ -1,0 +1,160 @@
+.spr{
+    padding: 130px 70px;
+    box-sizing: border-box;
+}
+
+
+
+.acad{
+    margin-top: 40px;
+    border: 4px solid #001858;
+    background-color: #f3d2c1;
+    text-align: center;
+    border-radius: 40px;
+    
+}
+.acad p{
+    font-size: 22px;
+    color: #001858;
+    text-align: justify;
+    
+    
+}
+
+.sect h6{
+    margin-top: 20px;
+    padding: 0 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.jun {
+    border: 2px solid transparent;
+    height: 270px;
+    margin-bottom: 250px;
+    
+}
+.jun  img{
+    margin-top: 40px;
+    margin-right: 40px;
+    border-radius: 20px;
+    width: 500px;
+    height: 170px;
+    float: left;
+    padding: 0 20px;
+}
+.jun p{
+    margin: 40px;
+    margin-left: 20px;
+    padding: 0 100px;
+    font-size: 24px;
+    display: flex;
+    color: #f3d2c1;
+}
+.se {
+    
+    border: 2px solid transparent;
+    
+    height: 260px;
+    border-radius: 40px;
+    
+}
+.se p{
+    margin-top: 40px;
+    margin-left: 20px;
+    padding: 0 100px;
+    font-size: 24px;
+    display: flex;
+    color: #f3d2c1;
+}
+.se img{
+    margin-top: 40px;
+    margin-right: 20px;
+    width: 400px;
+    height: 120px;
+    float: right;
+}
+.faculty{
+    margin-top: 200px;
+    border: 2px solid transparent;
+    background-color: gold;
+    height: 320px;
+    border-radius: 40px;
+}
+.faculty img{
+    margin-top: 20px;
+    float: right;
+    height: 200px;
+    padding-right: 30px;
+    width: 400px;
+}
+.faculty h5{
+    margin-top: 20px;
+    padding: 0 170px;
+    font-size: 26px;
+    color: #001858;
+}
+.faculty p {
+    margin-top: 30px;
+    padding-left:  150px;
+    padding-right: 700px;
+    font-size: 22px;
+}
+.faculty a{
+    padding: 0 400px;
+}
+.admission{
+    margin-top: 200px;
+    border: 2px solid transparent;
+    background-color: gold;
+    height: 320px;
+    border-radius: 40px;
+    
+}
+.admission h5{
+    
+    padding: 0 630px;
+    font-size: 26px;
+    color: #001858;
+}
+.admission p{
+    margin-top: 30px;
+    float: right;
+    padding-left: 300px;
+    padding-right: 170px;
+    font-size: 22px;
+    color: black;
+}
+.admission a{
+    float: right;
+    padding-right: 300px;
+}
+.curri{
+    margin-top: 200px;
+    margin-bottom: 100px;
+    border: 2px solid transparent;
+    background-color: gold;
+    height: 320px;
+    border-radius: 40px;
+}
+.curri img{
+    margin-top: 40px;
+    margin-right: 20px;
+    float: right;
+    height: 200px;
+}
+.curri h5{
+    margin-top: 50px;
+    padding: 0 200px;
+    font-size: 26px;
+    color: #001858;
+}
+.curri p{
+    margin-top: 30px;
+    padding-left: 170px;
+    padding-right: 430px;
+    font-size: 22px;
+    color: black;
+}
